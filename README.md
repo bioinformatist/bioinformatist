@@ -1,4 +1,4 @@
-**Rustacean across industrial systems, bioinformatics research, computer vision, and financial infrastructure.**
+**Rustacean** across **industrial systems**, **bioinformatics research**, **computer vision**, and **financial infrastructure**.
 
 ## Recent Merged Pull Requests
 
@@ -15,16 +15,12 @@ _Last updated: 2026-05-29 09:33 UTC_
 
 ## Representative Contributions
 
-- [burn](https://github.com/tracel-ai/burn): tensor operators, loss function, and regression support.
-- [rfd](https://github.com/PolyMeilex/rfd): WebAssembly support improvements.
-- [cargo-pgo](https://github.com/Kobzol/cargo-pgo): Docker image support for easier profile-guided optimization workflows.
+- [burn](https://github.com/tracel-ai/burn/pulls?q=is%3Apr+author%3Abioinformatist+is%3Amerged): tensor operators, loss function, and regression support.
+- [rfd](https://github.com/PolyMeilex/rfd/pulls?q=is%3Apr+author%3Abioinformatist+is%3Amerged): WebAssembly support improvements.
+- [cargo-pgo](https://github.com/Kobzol/cargo-pgo/pulls?q=is%3Apr+author%3Abioinformatist+is%3Amerged): Docker image support for easier profile-guided optimization workflows.
 
 ## Links
 
 <p>
-  <a href="https://github.com/bioinformatist" title="GitHub"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="28" height="28" /></a>
-  &nbsp;
   <a href="https://stackoverflow.com/users/8073702/yu-sun" title="Stack Overflow"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="Stack Overflow" width="28" height="28" /></a>
-  &nbsp;
-  <a href="https://orcid.org/0000-0003-4269-7187" title="ORCID"><img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="28" height="28" /></a>
 </p>
