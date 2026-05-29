@@ -1,4 +1,4 @@
-<h2 align="center">Rustacean across industrial systems, bioinformatics research, and financial infrastructure.</h2>
+**Rustacean across industrial systems, bioinformatics research, and financial infrastructure.**
 
 ## Recent Merged Pull Requests
 
