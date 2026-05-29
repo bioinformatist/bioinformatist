@@ -18,6 +18,10 @@ query($query: String!, $first: Int!, $after: String) {
         mergedAt
         repository {
           nameWithOwner
+          isPrivate
+          owner {
+            login
+          }
         }
       }
     }
@@ -79,6 +83,20 @@ struct PullRequest {
 struct Repository {
     #[serde(rename = "nameWithOwner")]
     name_with_owner: String,
+    #[serde(rename = "isPrivate")]
+    is_private: bool,
+    owner: RepositoryOwner,
+}
+
+#[derive(Clone, Debug, Deserialize)]
+struct RepositoryOwner {
+    login: String,
+}
+
+impl PullRequest {
+    fn is_public_external_contribution(&self, login: &str) -> bool {
+        !self.repository.is_private && !self.repository.owner.login.eq_ignore_ascii_case(login)
+    }
 }
 
 fn main() {
@@ -103,6 +121,7 @@ fn run() -> Result<(), Box<dyn Error>> {
     );
 
     let mut prs = fetch_merged_prs(&token, &search_query, config.max_pages)?;
+    prs.retain(|pr| pr.is_public_external_contribution(&config.login));
     prs.sort_by(|left, right| right.merged_at.cmp(&left.merged_at));
     prs.truncate(config.limit);
 

@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Rust-centered engineering map across industrial systems, bioinformatics research, financial engineering, and open source" />
-</p>
-
 Rustacean across industrial systems, bioinformatics research, and financial infrastructure.
 
 ## Recent Merged Pull Requests
@@ -12,9 +8,9 @@ Rustacean across industrial systems, bioinformatics research, and financial infr
 - [sctmes/dotfiles#4](https://github.com/sctmes/dotfiles/pull/4) · fix: maint commands · merged 2026-05-07
 - [AI4S-YB/pineapplehub#19](https://github.com/AI4S-YB/pineapplehub/pull/19) · feat: mobile · merged 2026-04-26
 - [AI4S-YB/pineapplehub#14](https://github.com/AI4S-YB/pineapplehub/pull/14) · feat: implement dynamic theme switching with multiple color palettes · merged 2026-03-30
-- [sctmes/graduation-project-ma#9](https://github.com/sctmes/graduation-project-ma/pull/9) · feat: chapter 3 (实验还没做) · merged 2026-03-20
+- [AI4S-YB/pineapplehub#11](https://github.com/AI4S-YB/pineapplehub/pull/11) · misc: docs, logo and loading screen · merged 2026-03-18
 
-_Last updated: 2026-05-29 08:24 UTC_
+_Last updated: 2026-05-29 08:52 UTC_
 <!-- RECENT_PRS_END -->
 
 ## Representative Contributions
@@ -25,4 +21,10 @@ _Last updated: 2026-05-29 08:24 UTC_
 
 ## Links
 
-[GitHub](https://github.com/bioinformatist) · [Stack Overflow](https://stackoverflow.com/users/8073702/yu-sun) · [ORCID](https://orcid.org/0000-0003-4269-7187)
+<p>
+  <a href="https://github.com/bioinformatist" title="GitHub"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/8073702/yu-sun" title="Stack Overflow"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="Stack Overflow" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://orcid.org/0000-0003-4269-7187" title="ORCID"><img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="28" height="28" /></a>
+</p>
