@@ -7,7 +7,7 @@ use std::fs;
 
 const START: &str = "<!-- RECENT_PRS_START -->";
 const END: &str = "<!-- RECENT_PRS_END -->";
-const GRAPHQL: &str = r#"
+const PULL_REQUESTS_QUERY: &str = r#"
 query($query: String!, $first: Int!, $after: String) {
   search(query: $query, type: ISSUE, first: $first, after: $after) {
     nodes {
@@ -19,9 +19,7 @@ query($query: String!, $first: Int!, $after: String) {
         repository {
           nameWithOwner
           isPrivate
-          owner {
-            login
-          }
+          viewerPermission
         }
       }
     }
@@ -45,12 +43,12 @@ struct Config {
 
 #[derive(Debug, Deserialize)]
 struct GraphqlResponse {
-    data: Option<GraphqlData>,
+    data: Option<PullRequestsData>,
     errors: Option<serde_json::Value>,
 }
 
 #[derive(Debug, Deserialize)]
-struct GraphqlData {
+struct PullRequestsData {
     search: SearchResult,
 }
 
@@ -85,17 +83,27 @@ struct Repository {
     name_with_owner: String,
     #[serde(rename = "isPrivate")]
     is_private: bool,
-    owner: RepositoryOwner,
+    #[serde(rename = "viewerPermission")]
+    viewer_permission: RepositoryPermission,
 }
 
-#[derive(Clone, Debug, Deserialize)]
-struct RepositoryOwner {
-    login: String,
+#[derive(Clone, Debug, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "SCREAMING_SNAKE_CASE")]
+enum RepositoryPermission {
+    Admin,
+    Maintain,
+    Read,
+    Triage,
+    Write,
 }
 
 impl PullRequest {
-    fn is_public_external_contribution(&self, login: &str) -> bool {
-        !self.repository.is_private && !self.repository.owner.login.eq_ignore_ascii_case(login)
+    fn is_public_external_contribution(&self) -> bool {
+        !self.repository.is_private
+            && !matches!(
+                self.repository.viewer_permission,
+                RepositoryPermission::Admin | RepositoryPermission::Maintain
+            )
     }
 }
 
@@ -121,7 +129,7 @@ fn run() -> Result<(), Box<dyn Error>> {
     );
 
     let mut prs = fetch_merged_prs(&token, &search_query, config.max_pages)?;
-    prs.retain(|pr| pr.is_public_external_contribution(&config.login));
+    prs.retain(PullRequest::is_public_external_contribution);
     prs.sort_by(|left, right| right.merged_at.cmp(&left.merged_at));
     prs.truncate(config.limit);
 
@@ -214,7 +222,7 @@ fn fetch_merged_prs(
             .set("Content-Type", "application/json")
             .set("User-Agent", "bioinformatist-profile-readme")
             .send_json(json!({
-                "query": GRAPHQL,
+                "query": PULL_REQUESTS_QUERY,
                 "variables": {
                     "query": search_query,
                     "first": 100,
