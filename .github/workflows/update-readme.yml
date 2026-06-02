@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update recent merged pull requests
-        uses: bioinformatist/recent-merged-pr@v0.1.0
+        uses: bioinformatist/recent-merged-pr@v0.1.2
         with:
           limit: 6
           include-private: false
