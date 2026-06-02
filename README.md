@@ -3,14 +3,14 @@
 ## Recent Merged Pull Requests
 
 <!-- RECENT_PRS_START -->
+- [luccahuguet/yazelix#603](https://github.com/luccahuguet/yazelix/pull/603) · Improve tutor · merged 2026-06-02
 - [luccahuguet/yazelix#600](https://github.com/luccahuguet/yazelix/pull/600) · fix: kgp yazi postpatch · merged 2026-05-31
 - [amruthpillai/reactive-resume#3095](https://github.com/amruthpillai/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · merged 2026-05-25
 - [luccahuguet/yazelix#596](https://github.com/luccahuguet/yazelix/pull/596) · Fix zellij KGP cargo vendor hash · merged 2026-05-25
 - [SYSU-SCC/sysu-thesis#118](https://github.com/SYSU-SCC/sysu-thesis/pull/118) · 为`Makefile`提供文档 · merged 2026-01-14
 - [SYSU-SCC/sysu-thesis#117](https://github.com/SYSU-SCC/sysu-thesis/pull/117) · 优化Dockerfile · merged 2026-01-14
-- [image-rs/imageproc#739](https://github.com/image-rs/imageproc/pull/739) · fix integration tests · merged 2025-12-16
 
-_Last updated: 2026-06-02 05:00 UTC_
+_Last updated: 2026-06-02 16:55 UTC_
 <!-- RECENT_PRS_END -->
 
 ## Representative Contributions
