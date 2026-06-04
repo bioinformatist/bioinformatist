@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update recent merged pull requests
-        uses: bioinformatist/recent-merged-pr@feat/repo-grouped-output
+        uses: bioinformatist/recent-merged-pr@v1
         with:
           token: ${{ secrets.RECENT_MERGED_PR_TOKEN }}
           repo-limit: 6
