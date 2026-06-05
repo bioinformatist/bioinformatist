@@ -12,12 +12,13 @@ jobs:
   recent-prs:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Update recent merged pull requests
-        uses: bioinformatist/recent-merged-pr@v0.1.3
+        uses: bioinformatist/recent-merged-pr@v1
         with:
           token: ${{ secrets.RECENT_MERGED_PR_TOKEN }}
-          limit: 6
+          repo-limit: 6
+          max-prs-per-repo: 3
           include-private: false
       - name: Commit changes
         run: |
