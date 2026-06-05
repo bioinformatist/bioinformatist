@@ -4,9 +4,9 @@
 
 <!-- RECENT_PRS_START -->
 - [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix)\
+  |-- [#612](https://github.com/luccahuguet/yazelix/pull/612) · fix: enter startup cwd · merged 2026-06-04\
   |-- [#605](https://github.com/luccahuguet/yazelix/pull/605) · chore: add prek to maintainer shell · merged 2026-06-04\
   |-- [#603](https://github.com/luccahuguet/yazelix/pull/603) · Improve tutor · merged 2026-06-02\
-  |-- [#600](https://github.com/luccahuguet/yazelix/pull/600) · fix: kgp yazi postpatch · merged 2026-05-31\
   '-- [more...](https://github.com/luccahuguet/yazelix/pulls?q=is%3Apr+author%3Abioinformatist+is%3Amerged)
 - [amruthpillai/reactive-resume#3095](https://github.com/amruthpillai/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · merged 2026-05-25
 - [SYSU-SCC/sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis)\
@@ -15,7 +15,7 @@
 - [image-rs/imageproc#739](https://github.com/image-rs/imageproc/pull/739) · fix integration tests · merged 2025-12-16
 - [PolyMeilex/rfd#258](https://github.com/PolyMeilex/rfd/pull/258) · fix: the `pick_file()` can return `None` when cancelled · merged 2025-07-16
 
-_Last updated: 2026-06-04 13:45 UTC_
+_Last updated: 2026-06-05 07:14 UTC_
 <!-- RECENT_PRS_END -->
 
 ## Representative Contributions
