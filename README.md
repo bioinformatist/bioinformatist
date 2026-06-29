@@ -15,7 +15,7 @@
 - [image-rs/imageproc#739](https://github.com/image-rs/imageproc/pull/739) · fix integration tests · merged 2025-12-16
 - [PolyMeilex/rfd#258](https://github.com/PolyMeilex/rfd/pull/258) · fix: the `pick_file()` can return `None` when cancelled · merged 2025-07-16
 
-_Last updated: 2026-06-28 14:14 UTC_
+_Last updated: 2026-06-29 04:58 UTC_
 <!-- RECENT_PRS_END -->
 
 ## Representative Contributions
