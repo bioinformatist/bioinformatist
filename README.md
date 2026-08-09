@@ -4,18 +4,13 @@
 
 <!-- RECENT_PRS_START -->
 - [stablyai/orca#7764](https://github.com/stablyai/orca/pull/7764) · Fix SSH fallback worktree paths for origin/main · merged 2026-07-24
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix)\
-  |-- [#641](https://github.com/luccahuguet/yazelix/pull/641) · feat: render tutor copy from markdown · merged 2026-06-18\
-  |-- [#630](https://github.com/luccahuguet/yazelix/pull/630) · Allow substituting the Yazelix wrapper package · merged 2026-06-12\
-  |-- [#612](https://github.com/luccahuguet/yazelix/pull/612) · fix: enter startup cwd · merged 2026-06-04\
-  '-- [more...](https://github.com/luccahuguet/yazelix/pulls?q=is%3Apr+author%3Abioinformatist+is%3Amerged)
 - [amruthpillai/reactive-resume#3095](https://github.com/amruthpillai/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · merged 2026-05-25
 - [SYSU-SCC/sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis)\
   |-- [#118](https://github.com/SYSU-SCC/sysu-thesis/pull/118) · 为`Makefile`提供文档 · merged 2026-01-14\
   '-- [#117](https://github.com/SYSU-SCC/sysu-thesis/pull/117) · 优化Dockerfile · merged 2026-01-14
 - [image-rs/imageproc#739](https://github.com/image-rs/imageproc/pull/739) · fix integration tests · merged 2025-12-16
 
-_Last updated: 2026-08-09 02:26 UTC_
+_Last updated: 2026-08-09 13:13 UTC_
 <!-- RECENT_PRS_END -->
 
 ## Representative Contributions
