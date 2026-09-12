@@ -4,13 +4,13 @@
 
 <!-- RECENT_PRS_START -->
 - [stablyai/orca#7764](https://github.com/stablyai/orca/pull/7764) · Fix SSH fallback worktree paths for origin/main · merged 2026-07-24
-- [reactive-resume/app#3095](https://github.com/reactive-resume/app/pull/3095) · fix(auth): reconcile migrated social login accounts · merged 2026-05-25
+- [reactive-resume/reactive-resume#3095](https://github.com/reactive-resume/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · merged 2026-05-25
 - [SYSU-SCC/sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis)\
   |-- [#118](https://github.com/SYSU-SCC/sysu-thesis/pull/118) · 为`Makefile`提供文档 · merged 2026-01-14\
   '-- [#117](https://github.com/SYSU-SCC/sysu-thesis/pull/117) · 优化Dockerfile · merged 2026-01-14
 - [image-rs/imageproc#739](https://github.com/image-rs/imageproc/pull/739) · fix integration tests · merged 2025-12-16
 
-_Last updated: 2026-09-12 04:31 UTC_
+_Last updated: 2026-09-12 15:29 UTC_
 <!-- RECENT_PRS_END -->
 
 ## Representative Contributions
