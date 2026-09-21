@@ -15,7 +15,7 @@
   '-- [#117](https://github.com/SYSU-SCC/sysu-thesis/pull/117) · 优化Dockerfile · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.1.0/assets/merged.svg" width="16" height="16"> 2026-01-14
 - [image-rs/imageproc#739](https://github.com/image-rs/imageproc/pull/739) · fix integration tests · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.1.0/assets/merged.svg" width="16" height="16"> 2025-12-16
 
-_Last updated: 2026-09-21 05:48 UTC_
+_Last updated: 2026-09-21 18:11 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
