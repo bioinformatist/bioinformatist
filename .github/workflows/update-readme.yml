@@ -20,6 +20,7 @@ jobs:
           repo-limit: 6
           max-prs-per-repo: 3
           include-private: false
+          permission-exempt-owners: Yazelix
       - name: Commit changes
         run: |
           if git diff --quiet README.md; then
