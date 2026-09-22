@@ -19,6 +19,8 @@ jobs:
           token: ${{ secrets.RECENT_MERGED_PR_TOKEN }}
           repo-limit: 6
           max-prs-per-repo: 3
+          include-commits: true
+          max-commits-per-repo: 3
           include-private: false
           permission-exempt-owners: Yazelix
       - name: Commit changes
