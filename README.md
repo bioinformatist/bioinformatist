@@ -31,7 +31,7 @@
   |-- [c25e112](https://github.com/SYSU-SCC/sysu-thesis/commit/c25e11259c04983cd81857ef703c5c211d619fce) · build: use custom marker file for robust devcontainer font detection · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-13\
   '-- [repository history...](https://github.com/SYSU-SCC/sysu-thesis/commits)
 
-_Last updated: 2026-09-24 04:46 UTC_
+_Last updated: 2026-09-24 17:08 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
