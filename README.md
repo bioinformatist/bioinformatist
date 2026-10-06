@@ -4,6 +4,8 @@
 
 <!-- RECENT_PRS_START -->
 - [Yazelix](https://github.com/Yazelix)\
+  |-- [eon](https://github.com/Yazelix/eon)\
+  |   '-- [d03e12f](https://github.com/Yazelix/eon/commit/d03e12fe56ccc302ad2b92267ed80e37fe5541c2) · build: integrate pinned Eon development shell · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-06\
   |-- [nova-site](https://github.com/Yazelix/nova-site)\
   |   |-- [bcfafd5](https://github.com/Yazelix/nova-site/commit/bcfafd5bc04f262818f6cc342417f258d0f3a88a) · docs: sync site with Nova Stable 1.2 · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-11\
   |   |-- [486a806](https://github.com/Yazelix/nova-site/commit/486a8068db47fbe504a07e10c7184daa1eb820cb) · fix: require Codex only for agent recording takes · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
@@ -23,15 +25,8 @@
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)\
   |-- [86fff72](https://github.com/reactive-resume/reactive-resume/commit/86fff7237f7c021c9329eaf29887097033481a55) · fix(auth): reconcile migrated social login accounts (#3095) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-05-25\
   '-- [#3095](https://github.com/reactive-resume/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-05-25
-- [SYSU-SCC/sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis)\
-  |-- [#118](https://github.com/SYSU-SCC/sysu-thesis/pull/118) · 为`Makefile`提供文档 · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-01-14\
-  |-- [26cbc5a](https://github.com/SYSU-SCC/sysu-thesis/commit/26cbc5a444a48719d578b937a0639f14b99c0d92) · docs: 在 README 中添加 Makefile 帮助命令的使用说明 · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-14\
-  |-- [2670a7e](https://github.com/SYSU-SCC/sysu-thesis/commit/2670a7e3588598ddd31f7c1dd4743d8012f99cbb) · build: 为 Makefile 添加帮助信息并设置默认目标为 help · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-14\
-  |-- [#117](https://github.com/SYSU-SCC/sysu-thesis/pull/117) · 优化Dockerfile · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-01-14\
-  |-- [c25e112](https://github.com/SYSU-SCC/sysu-thesis/commit/c25e11259c04983cd81857ef703c5c211d619fce) · build: use custom marker file for robust devcontainer font detection · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-13\
-  '-- [repository history...](https://github.com/SYSU-SCC/sysu-thesis/commits)
 
-_Last updated: 2026-10-06 06:17 UTC_
+_Last updated: 2026-10-06 18:20 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
