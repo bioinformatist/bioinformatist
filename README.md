@@ -5,7 +5,11 @@
 <!-- RECENT_PRS_START -->
 - [Yazelix](https://github.com/Yazelix)\
   |-- [eon](https://github.com/Yazelix/eon)\
-  |   '-- [d03e12f](https://github.com/Yazelix/eon/commit/d03e12fe56ccc302ad2b92267ed80e37fe5541c2) · build: integrate pinned Eon development shell · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-06\
+  |   |-- [#2](https://github.com/Yazelix/eon/pull/2) · ci: cache Eon Linux builds with Cachix · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-08\
+  |   |-- [ea0548f](https://github.com/Yazelix/eon/commit/ea0548f2defff7893496e47c77c7584175ce7a4a) · fix: clarify Cachix setup and simplify publishing config · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-08\
+  |   |-- [3089b89](https://github.com/Yazelix/eon/commit/3089b89101be87ba8e4994a5c32c87ef10971e74) · chore: record Cachix draft PR handoff · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-08\
+  |   |-- [76782f1](https://github.com/Yazelix/eon/commit/76782f17726170ebd91193500f7f8a0912a91b15) · ci: publish optional Eon Linux binaries to Cachix · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-08\
+  |   '-- [repository history...](https://github.com/Yazelix/eon/commits)\
   |-- [nova-site](https://github.com/Yazelix/nova-site)\
   |   |-- [bcfafd5](https://github.com/Yazelix/nova-site/commit/bcfafd5bc04f262818f6cc342417f258d0f3a88a) · docs: sync site with Nova Stable 1.2 · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-11\
   |   |-- [486a806](https://github.com/Yazelix/nova-site/commit/486a8068db47fbe504a07e10c7184daa1eb820cb) · fix: require Codex only for agent recording takes · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
@@ -26,7 +30,7 @@
   |-- [86fff72](https://github.com/reactive-resume/reactive-resume/commit/86fff7237f7c021c9329eaf29887097033481a55) · fix(auth): reconcile migrated social login accounts (#3095) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-05-25\
   '-- [#3095](https://github.com/reactive-resume/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-05-25
 
-_Last updated: 2026-10-08 06:00 UTC_
+_Last updated: 2026-10-08 18:50 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
