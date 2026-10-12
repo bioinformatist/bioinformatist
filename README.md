@@ -4,6 +4,9 @@
 
 <!-- RECENT_PRS_START -->
 - [Yazelix](https://github.com/Yazelix)\
+  |-- [eon-sessions](https://github.com/Yazelix/eon-sessions)\
+  |   |-- [427cf2d](https://github.com/Yazelix/eon-sessions/commit/427cf2d074cd1db905a2cc2602a5475065d1c790) · fix: use portable CPU targeting for libghostty builds (#1) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-12\
+  |   '-- [#1](https://github.com/Yazelix/eon-sessions/pull/1) · fix: use portable CPU targeting for libghostty builds · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-12\
   |-- [eon](https://github.com/Yazelix/eon)\
   |   |-- [#2](https://github.com/Yazelix/eon/pull/2) · ci: cache Eon Linux builds with Cachix · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-08\
   |   |-- [ea0548f](https://github.com/Yazelix/eon/commit/ea0548f2defff7893496e47c77c7584175ce7a4a) · fix: clarify Cachix setup and simplify publishing config · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-08\
@@ -26,11 +29,8 @@
       |-- [#612](https://github.com/Yazelix/nova/pull/612) · fix: enter startup cwd · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-06-04\
       '-- [more PRs...](https://github.com/Yazelix/nova/pulls?q=is%3Apr+author%3Abioinformatist+is%3Amerged)
 - [stablyai/orca#7764](https://github.com/stablyai/orca/pull/7764) · Fix SSH fallback worktree paths for origin/main · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-07-24
-- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)\
-  |-- [86fff72](https://github.com/reactive-resume/reactive-resume/commit/86fff7237f7c021c9329eaf29887097033481a55) · fix(auth): reconcile migrated social login accounts (#3095) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-05-25\
-  '-- [#3095](https://github.com/reactive-resume/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-05-25
 
-_Last updated: 2026-10-12 05:53 UTC_
+_Last updated: 2026-10-12 21:15 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
