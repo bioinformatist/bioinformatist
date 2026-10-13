@@ -4,6 +4,9 @@
 
 <!-- RECENT_PRS_START -->
 - [Yazelix](https://github.com/Yazelix)\
+  |-- [eon-desktop](https://github.com/Yazelix/eon-desktop)\
+  |   |-- [#1](https://github.com/Yazelix/eon-desktop/pull/1) · fix: preserve automatic UI fonts with terminal fallbacks · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-13\
+  |   '-- [e652ab9](https://github.com/Yazelix/eon-desktop/commit/e652ab9b3a59727cd22534769ec9eca0e354b0d0) · fix: preserve automatic UI fonts with terminal fallbacks · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-13\
   |-- [eon-sessions](https://github.com/Yazelix/eon-sessions)\
   |   |-- [427cf2d](https://github.com/Yazelix/eon-sessions/commit/427cf2d074cd1db905a2cc2602a5475065d1c790) · fix: use portable CPU targeting for libghostty builds (#1) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-12\
   |   '-- [#1](https://github.com/Yazelix/eon-sessions/pull/1) · fix: use portable CPU targeting for libghostty builds · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-12\
@@ -18,19 +21,14 @@
   |   |-- [486a806](https://github.com/Yazelix/nova-site/commit/486a8068db47fbe504a07e10c7184daa1eb820cb) · fix: require Codex only for agent recording takes · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
   |   |-- [59e2417](https://github.com/Yazelix/nova-site/commit/59e24176acbaef1a9dd993dc53547c237c31f9f5) · fix: isolate Codex recording settings and verify its answer · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
   |   '-- [repository history...](https://github.com/Yazelix/nova-site/commits)\
-  |-- [kinestra](https://github.com/Yazelix/kinestra)\
-  |   |-- [6d1c397](https://github.com/Yazelix/kinestra/commit/6d1c3979d9582b730a04049c775bc025bf7e5b18) · chore: close verified Codex recording bead · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
-  |   |-- [49f67a8](https://github.com/Yazelix/kinestra/commit/49f67a8e388945b8fb814cc9e50265cbd783e4c1) · chore: close verified session cleanup bead · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
-  |   |-- [25d637b](https://github.com/Yazelix/kinestra/commit/25d637b6fe38469ffe6b3010c0330acd3219960b) · test: retain capture diagnostics when consumer cleanup fails · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
-  |   '-- [repository history...](https://github.com/Yazelix/kinestra/commits)\
-  '-- [nova](https://github.com/Yazelix/nova)\
-      |-- [#641](https://github.com/Yazelix/nova/pull/641) · feat: render tutor copy from markdown · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-06-18\
-      |-- [#630](https://github.com/Yazelix/nova/pull/630) · Allow substituting the Yazelix wrapper package · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-06-12\
-      |-- [#612](https://github.com/Yazelix/nova/pull/612) · fix: enter startup cwd · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-06-04\
-      '-- [more PRs...](https://github.com/Yazelix/nova/pulls?q=is%3Apr+author%3Abioinformatist+is%3Amerged)
+  '-- [kinestra](https://github.com/Yazelix/kinestra)\
+      |-- [6d1c397](https://github.com/Yazelix/kinestra/commit/6d1c3979d9582b730a04049c775bc025bf7e5b18) · chore: close verified Codex recording bead · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
+      |-- [49f67a8](https://github.com/Yazelix/kinestra/commit/49f67a8e388945b8fb814cc9e50265cbd783e4c1) · chore: close verified session cleanup bead · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
+      |-- [25d637b](https://github.com/Yazelix/kinestra/commit/25d637b6fe38469ffe6b3010c0330acd3219960b) · test: retain capture diagnostics when consumer cleanup fails · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
+      '-- [repository history...](https://github.com/Yazelix/kinestra/commits)
 - [stablyai/orca#7764](https://github.com/stablyai/orca/pull/7764) · Fix SSH fallback worktree paths for origin/main · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-07-24
 
-_Last updated: 2026-10-13 06:45 UTC_
+_Last updated: 2026-10-13 19:15 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
