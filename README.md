@@ -4,18 +4,6 @@
 
 <!-- RECENT_PRS_START -->
 - [Yazelix](https://github.com/Yazelix)\
-  |-- [eon-desktop](https://github.com/Yazelix/eon-desktop)\
-  |   |-- [#1](https://github.com/Yazelix/eon-desktop/pull/1) · fix: preserve automatic UI fonts with terminal fallbacks · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-13\
-  |   '-- [e652ab9](https://github.com/Yazelix/eon-desktop/commit/e652ab9b3a59727cd22534769ec9eca0e354b0d0) · fix: preserve automatic UI fonts with terminal fallbacks · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-13\
-  |-- [eon-sessions](https://github.com/Yazelix/eon-sessions)\
-  |   |-- [427cf2d](https://github.com/Yazelix/eon-sessions/commit/427cf2d074cd1db905a2cc2602a5475065d1c790) · fix: use portable CPU targeting for libghostty builds (#1) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-12\
-  |   '-- [#1](https://github.com/Yazelix/eon-sessions/pull/1) · fix: use portable CPU targeting for libghostty builds · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-12\
-  |-- [eon](https://github.com/Yazelix/eon)\
-  |   |-- [#2](https://github.com/Yazelix/eon/pull/2) · ci: cache Eon Linux builds with Cachix · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-08\
-  |   |-- [ea0548f](https://github.com/Yazelix/eon/commit/ea0548f2defff7893496e47c77c7584175ce7a4a) · fix: clarify Cachix setup and simplify publishing config · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-08\
-  |   |-- [3089b89](https://github.com/Yazelix/eon/commit/3089b89101be87ba8e4994a5c32c87ef10971e74) · chore: record Cachix draft PR handoff · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-08\
-  |   |-- [76782f1](https://github.com/Yazelix/eon/commit/76782f17726170ebd91193500f7f8a0912a91b15) · ci: publish optional Eon Linux binaries to Cachix · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-08\
-  |   '-- [repository history...](https://github.com/Yazelix/eon/commits)\
   |-- [kinestra](https://github.com/Yazelix/kinestra)\
   |   |-- [6d1c397](https://github.com/Yazelix/kinestra/commit/6d1c3979d9582b730a04049c775bc025bf7e5b18) · chore: close verified Codex recording bead · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
   |   |-- [49f67a8](https://github.com/Yazelix/kinestra/commit/49f67a8e388945b8fb814cc9e50265cbd783e4c1) · chore: close verified session cleanup bead · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
@@ -27,8 +15,21 @@
       |-- [#612](https://github.com/Yazelix/nova/pull/612) · fix: enter startup cwd · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-06-04\
       '-- [more PRs...](https://github.com/Yazelix/nova/pulls?q=is%3Apr+author%3Abioinformatist+is%3Amerged)
 - [stablyai/orca#7764](https://github.com/stablyai/orca/pull/7764) · Fix SSH fallback worktree paths for origin/main · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-07-24
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)\
+  |-- [86fff72](https://github.com/reactive-resume/reactive-resume/commit/86fff7237f7c021c9329eaf29887097033481a55) · fix(auth): reconcile migrated social login accounts (#3095) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-05-25\
+  '-- [#3095](https://github.com/reactive-resume/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-05-25
+- [SYSU-SCC/sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis)\
+  |-- [#118](https://github.com/SYSU-SCC/sysu-thesis/pull/118) · 为`Makefile`提供文档 · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-01-14\
+  |-- [26cbc5a](https://github.com/SYSU-SCC/sysu-thesis/commit/26cbc5a444a48719d578b937a0639f14b99c0d92) · docs: 在 README 中添加 Makefile 帮助命令的使用说明 · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-14\
+  |-- [2670a7e](https://github.com/SYSU-SCC/sysu-thesis/commit/2670a7e3588598ddd31f7c1dd4743d8012f99cbb) · build: 为 Makefile 添加帮助信息并设置默认目标为 help · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-14\
+  |-- [#117](https://github.com/SYSU-SCC/sysu-thesis/pull/117) · 优化Dockerfile · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-01-14\
+  |-- [c25e112](https://github.com/SYSU-SCC/sysu-thesis/commit/c25e11259c04983cd81857ef703c5c211d619fce) · build: use custom marker file for robust devcontainer font detection · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-13\
+  '-- [repository history...](https://github.com/SYSU-SCC/sysu-thesis/commits)
+- [image-rs/imageproc](https://github.com/image-rs/imageproc)\
+  |-- [4a45a7e](https://github.com/image-rs/imageproc/commit/4a45a7e64877a3d7096ec0cfd67f201d2948bb72) · fix integration tests (#739) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2025-12-16\
+  '-- [#739](https://github.com/image-rs/imageproc/pull/739) · fix integration tests · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2025-12-16
 
-_Last updated: 2026-10-14 04:50 UTC_
+_Last updated: 2026-10-14 17:07 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
