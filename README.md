@@ -29,7 +29,7 @@
   |-- [4a45a7e](https://github.com/image-rs/imageproc/commit/4a45a7e64877a3d7096ec0cfd67f201d2948bb72) · fix integration tests (#739) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2025-12-16\
   '-- [#739](https://github.com/image-rs/imageproc/pull/739) · fix integration tests · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2025-12-16
 
-_Last updated: 2026-10-26 18:40 UTC_
+_Last updated: 2026-10-27 05:00 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
