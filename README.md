@@ -3,6 +3,9 @@
 ## Recent Merged Pull Requests
 
 <!-- RECENT_PRS_START -->
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming)\
+  |-- [#229](https://github.com/yuankunzhang/charming/pull/229) · ci: unify checks and migrate to a flake devShell · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-31\
+  '-- [4fb89ec](https://github.com/yuankunzhang/charming/commit/4fb89ec08d6723d46a8df5bd1f2ce1a02c4f0480) · ci: unify checks and migrate to a flake devShell (#229) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-31
 - [Yazelix](https://github.com/Yazelix)\
   |-- [kinestra](https://github.com/Yazelix/kinestra)\
   |   |-- [6d1c397](https://github.com/Yazelix/kinestra/commit/6d1c3979d9582b730a04049c775bc025bf7e5b18) · chore: close verified Codex recording bead · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
@@ -25,11 +28,8 @@
   |-- [#117](https://github.com/SYSU-SCC/sysu-thesis/pull/117) · 优化Dockerfile · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-01-14\
   |-- [c25e112](https://github.com/SYSU-SCC/sysu-thesis/commit/c25e11259c04983cd81857ef703c5c211d619fce) · build: use custom marker file for robust devcontainer font detection · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-13\
   '-- [repository history...](https://github.com/SYSU-SCC/sysu-thesis/commits)
-- [image-rs/imageproc](https://github.com/image-rs/imageproc)\
-  |-- [4a45a7e](https://github.com/image-rs/imageproc/commit/4a45a7e64877a3d7096ec0cfd67f201d2948bb72) · fix integration tests (#739) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2025-12-16\
-  '-- [#739](https://github.com/image-rs/imageproc/pull/739) · fix integration tests · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2025-12-16
 
-_Last updated: 2026-10-31 05:36 UTC_
+_Last updated: 2026-10-31 17:14 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
