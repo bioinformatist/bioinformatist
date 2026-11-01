@@ -18,9 +18,7 @@
       |-- [#612](https://github.com/Yazelix/nova/pull/612) · fix: enter startup cwd · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-06-04\
       '-- [more PRs...](https://github.com/Yazelix/nova/pulls?q=is%3Apr+author%3Abioinformatist+is%3Amerged)
 - [stablyai/orca#7764](https://github.com/stablyai/orca/pull/7764) · Fix SSH fallback worktree paths for origin/main · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-07-24
-- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)\
-  |-- [86fff72](https://github.com/reactive-resume/reactive-resume/commit/86fff7237f7c021c9329eaf29887097033481a55) · fix(auth): reconcile migrated social login accounts (#3095) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-05-25\
-  '-- [#3095](https://github.com/reactive-resume/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-05-25
+- [reactive-resume/reactive-resume#3095](https://github.com/reactive-resume/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-05-25
 - [SYSU-SCC/sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis)\
   |-- [#118](https://github.com/SYSU-SCC/sysu-thesis/pull/118) · 为`Makefile`提供文档 · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-01-14\
   |-- [26cbc5a](https://github.com/SYSU-SCC/sysu-thesis/commit/26cbc5a444a48719d578b937a0639f14b99c0d92) · docs: 在 README 中添加 Makefile 帮助命令的使用说明 · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-14\
@@ -29,7 +27,7 @@
   |-- [c25e112](https://github.com/SYSU-SCC/sysu-thesis/commit/c25e11259c04983cd81857ef703c5c211d619fce) · build: use custom marker file for robust devcontainer font detection · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-13\
   '-- [repository history...](https://github.com/SYSU-SCC/sysu-thesis/commits)
 
-_Last updated: 2026-11-01 05:58 UTC_
+_Last updated: 2026-11-01 17:55 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
