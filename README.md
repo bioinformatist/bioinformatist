@@ -3,10 +3,11 @@
 ## Recent Merged Pull Requests
 
 <!-- RECENT_PRS_START -->
-- [yuankunzhang/charming](https://github.com/yuankunzhang/charming)\
-  |-- [#229](https://github.com/yuankunzhang/charming/pull/229) · ci: unify checks and migrate to a flake devShell · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-31\
-  '-- [4fb89ec](https://github.com/yuankunzhang/charming/commit/4fb89ec08d6723d46a8df5bd1f2ce1a02c4f0480) · ci: unify checks and migrate to a flake devShell (#229) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-31
 - [Yazelix](https://github.com/Yazelix)\
+  |-- [eon](https://github.com/Yazelix/eon)\
+  |   |-- [38f2513](https://github.com/Yazelix/eon/commit/38f25138857a4d72a1d4c0daafbe73e95e02e6b0) · Index EON-C38, persistent workspace identity and host registry, as Pl… · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-03\
+  |   |-- [cd58720](https://github.com/Yazelix/eon/commit/cd5872047967c926e0f09ae517b88d22f9b47353) · Plan recoverable workspaces: slice 2a EON-C38 text, takeover flow and… · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-03\
+  |   '-- [#3](https://github.com/Yazelix/eon/pull/3) · docs: propose recoverable workspace contracts and acceptance matrix (slice 1) · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-11-03\
   |-- [kinestra](https://github.com/Yazelix/kinestra)\
   |   |-- [6d1c397](https://github.com/Yazelix/kinestra/commit/6d1c3979d9582b730a04049c775bc025bf7e5b18) · chore: close verified Codex recording bead · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
   |   |-- [49f67a8](https://github.com/Yazelix/kinestra/commit/49f67a8e388945b8fb814cc9e50265cbd783e4c1) · chore: close verified session cleanup bead · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
@@ -17,17 +18,13 @@
       |-- [#630](https://github.com/Yazelix/nova/pull/630) · Allow substituting the Yazelix wrapper package · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-06-12\
       |-- [#612](https://github.com/Yazelix/nova/pull/612) · fix: enter startup cwd · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-06-04\
       '-- [more PRs...](https://github.com/Yazelix/nova/pulls?q=is%3Apr+author%3Abioinformatist+is%3Amerged)
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming)\
+  |-- [#229](https://github.com/yuankunzhang/charming/pull/229) · ci: unify checks and migrate to a flake devShell · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-31\
+  '-- [4fb89ec](https://github.com/yuankunzhang/charming/commit/4fb89ec08d6723d46a8df5bd1f2ce1a02c4f0480) · ci: unify checks and migrate to a flake devShell (#229) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-10-31
 - [stablyai/orca#7764](https://github.com/stablyai/orca/pull/7764) · Fix SSH fallback worktree paths for origin/main · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-07-24
 - [reactive-resume/reactive-resume#3095](https://github.com/reactive-resume/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-05-25
-- [SYSU-SCC/sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis)\
-  |-- [#118](https://github.com/SYSU-SCC/sysu-thesis/pull/118) · 为`Makefile`提供文档 · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-01-14\
-  |-- [26cbc5a](https://github.com/SYSU-SCC/sysu-thesis/commit/26cbc5a444a48719d578b937a0639f14b99c0d92) · docs: 在 README 中添加 Makefile 帮助命令的使用说明 · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-14\
-  |-- [2670a7e](https://github.com/SYSU-SCC/sysu-thesis/commit/2670a7e3588598ddd31f7c1dd4743d8012f99cbb) · build: 为 Makefile 添加帮助信息并设置默认目标为 help · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-14\
-  |-- [#117](https://github.com/SYSU-SCC/sysu-thesis/pull/117) · 优化Dockerfile · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-01-14\
-  |-- [c25e112](https://github.com/SYSU-SCC/sysu-thesis/commit/c25e11259c04983cd81857ef703c5c211d619fce) · build: use custom marker file for robust devcontainer font detection · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-01-13\
-  '-- [repository history...](https://github.com/SYSU-SCC/sysu-thesis/commits)
 
-_Last updated: 2026-11-03 06:43 UTC_
+_Last updated: 2026-11-03 19:29 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
