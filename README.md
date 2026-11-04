@@ -4,6 +4,7 @@
 
 <!-- RECENT_PRS_START -->
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming)\
+  |-- [954bda9](https://github.com/yuankunzhang/charming/commit/954bda9d4d4632702522c68fc2d90c1a3ebdcfe6) · feat!: add color callbacks, rich axis labels and DataZoom options · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-04\
   |-- [76638c9](https://github.com/yuankunzhang/charming/commit/76638c9c1237c24a5ae72933d0fc83ac8a2161b4) · feat!: unify JavaScript source and rendering conversion (#230) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-04\
   |-- [#230](https://github.com/yuankunzhang/charming/pull/230) · Unify JavaScript source storage and rendering conversion · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-11-04\
   |-- [#229](https://github.com/yuankunzhang/charming/pull/229) · ci: unify checks and migrate to a flake devShell · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-31\
@@ -26,7 +27,7 @@
 - [stablyai/orca#7764](https://github.com/stablyai/orca/pull/7764) · Fix SSH fallback worktree paths for origin/main · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-07-24
 - [reactive-resume/reactive-resume#3095](https://github.com/reactive-resume/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-05-25
 
-_Last updated: 2026-11-04 06:14 UTC_
+_Last updated: 2026-11-04 19:43 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
