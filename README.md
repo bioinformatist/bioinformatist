@@ -31,7 +31,7 @@
 - [stablyai/orca#7764](https://github.com/stablyai/orca/pull/7764) · Fix SSH fallback worktree paths for origin/main · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-07-24
 - [reactive-resume/reactive-resume#3095](https://github.com/reactive-resume/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-05-25
 
-_Last updated: 2026-11-09 06:21 UTC_
+_Last updated: 2026-11-09 22:18 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
