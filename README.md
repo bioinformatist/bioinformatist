@@ -3,6 +3,9 @@
 ## Recent Merged Pull Requests
 
 <!-- RECENT_PRS_START -->
+- [boquila/montgomery](https://github.com/boquila/montgomery)\
+  |-- [6edea6d](https://github.com/boquila/montgomery/commit/6edea6db39bd55ab84a2fe053a435d150e07fd5f) · fix: update Burn GPU stack for batch-one backward (#13) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-14\
+  '-- [#13](https://github.com/boquila/montgomery/pull/13) · fix: update Burn GPU stack for batch-one backward · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-11-14
 - [Yazelix](https://github.com/Yazelix)\
   |-- [eon](https://github.com/Yazelix/eon)\
   |   |-- [c5f40f0](https://github.com/Yazelix/eon/commit/c5f40f06a21713d68d338ddb4531e2b9c7b922d0) · Keep recovery alive through registry faults and bound registry waits … · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-08\
@@ -29,9 +32,8 @@
   |-- [#229](https://github.com/yuankunzhang/charming/pull/229) · ci: unify checks and migrate to a flake devShell · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-10-31\
   '-- [repository history...](https://github.com/yuankunzhang/charming/commits)
 - [stablyai/orca#7764](https://github.com/stablyai/orca/pull/7764) · Fix SSH fallback worktree paths for origin/main · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-07-24
-- [reactive-resume/reactive-resume#3095](https://github.com/reactive-resume/reactive-resume/pull/3095) · fix(auth): reconcile migrated social login accounts · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-05-25
 
-_Last updated: 2026-11-13 19:39 UTC_
+_Last updated: 2026-11-14 06:17 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
