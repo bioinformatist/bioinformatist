@@ -3,14 +3,12 @@
 ## Recent Merged Pull Requests
 
 <!-- RECENT_PRS_START -->
-- [boquila/montgomery](https://github.com/boquila/montgomery)\
-  |-- [6edea6d](https://github.com/boquila/montgomery/commit/6edea6db39bd55ab84a2fe053a435d150e07fd5f) · fix: update Burn GPU stack for batch-one backward (#13) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-14\
-  '-- [#13](https://github.com/boquila/montgomery/pull/13) · fix: update Burn GPU stack for batch-one backward · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-11-14
 - [Yazelix](https://github.com/Yazelix)\
   |-- [eon](https://github.com/Yazelix/eon)\
-  |   |-- [c5f40f0](https://github.com/Yazelix/eon/commit/c5f40f06a21713d68d338ddb4531e2b9c7b922d0) · Keep recovery alive through registry faults and bound registry waits … · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-08\
-  |   |-- [a20504d](https://github.com/Yazelix/eon/commit/a20504d247773f45f501798160df21136a35051d) · feat: add persistent session IDs and a host registry · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-08\
-  |   |-- [38f2513](https://github.com/Yazelix/eon/commit/38f25138857a4d72a1d4c0daafbe73e95e02e6b0) · Index EON-C38, persistent workspace identity and host registry, as Pl… · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-03\
+  |   |-- [#7](https://github.com/Yazelix/eon/pull/7) · docs: slice 2b local session recovery contract · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-11-14\
+  |   |-- [a5fd862](https://github.com/Yazelix/eon/commit/a5fd862b4f98e485d3292cf1cd29d8eb7dbc6185) · docs: clarify local recovery failure boundaries · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-14\
+  |   |-- [c228cd8](https://github.com/Yazelix/eon/commit/c228cd8cf3df4580857971d173c9ba3e1ef6d76b) · docs: draft slice 2b local session recovery contract · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-14\
+  |   |-- [cce4082](https://github.com/Yazelix/eon/commit/cce4082b0af3ee9c21378ff9dbec70c50e126766) · docs: clarify recovery registration and worktree boundaries · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-14\
   |   |-- [#3](https://github.com/Yazelix/eon/pull/3) · docs: propose recoverable workspace contracts and acceptance matrix (slice 1) · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-11-03\
   |   '-- [repository history...](https://github.com/Yazelix/eon/commits)\
   |-- [kinestra](https://github.com/Yazelix/kinestra)\
@@ -23,6 +21,9 @@
       |-- [#630](https://github.com/Yazelix/nova/pull/630) · Allow substituting the Yazelix wrapper package · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-06-12\
       |-- [#612](https://github.com/Yazelix/nova/pull/612) · fix: enter startup cwd · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-06-04\
       '-- [more PRs...](https://github.com/Yazelix/nova/pulls?q=is%3Apr+author%3Abioinformatist+is%3Amerged)
+- [boquila/montgomery](https://github.com/boquila/montgomery)\
+  |-- [6edea6d](https://github.com/boquila/montgomery/commit/6edea6db39bd55ab84a2fe053a435d150e07fd5f) · fix: update Burn GPU stack for batch-one backward (#13) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-14\
+  '-- [#13](https://github.com/boquila/montgomery/pull/13) · fix: update Burn GPU stack for batch-one backward · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-11-14
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming)\
   |-- [827206e](https://github.com/yuankunzhang/charming/commit/827206e0ce927e6d8470b3192b7617bc59ee3718) · feat!: migrate to ECharts 6.1 (#231) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-05\
   |-- [#231](https://github.com/yuankunzhang/charming/pull/231) · feat!: migrate to ECharts 6.1 · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-11-05\
@@ -33,7 +34,7 @@
   '-- [repository history...](https://github.com/yuankunzhang/charming/commits)
 - [stablyai/orca#7764](https://github.com/stablyai/orca/pull/7764) · Fix SSH fallback worktree paths for origin/main · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-07-24
 
-_Last updated: 2026-11-14 06:17 UTC_
+_Last updated: 2026-11-14 17:58 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
