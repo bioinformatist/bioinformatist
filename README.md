@@ -5,12 +5,13 @@
 <!-- RECENT_PRS_START -->
 - [Yazelix](https://github.com/Yazelix)\
   |-- [eon](https://github.com/Yazelix/eon)\
+  |   |-- [#11](https://github.com/Yazelix/eon/pull/11) · fix(test): pin harness tools and remove Orbit FHS assumptions · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-11-18\
+  |   |-- [5b3a124](https://github.com/Yazelix/eon/commit/5b3a124f441244fdfdce3f0f2990ee46ee0ac18f) · Pin eon-test's harness tools and drop Orbit test FHS paths · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-18\
+  |   |-- [5af2602](https://github.com/Yazelix/eon/commit/5af26029c0d7e12427d4f41e2497a4425dad4909) · Credit Yu Sun on reviewer-eval case R32 (eon-uxgal) · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-18\
   |   |-- [#10](https://github.com/Yazelix/eon/pull/10) · fix(test): support NixOS symlinked /etc in eon-test · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-11-18\
   |   |-- [1fac193](https://github.com/Yazelix/eon/commit/1fac19360170cdc1b6e4ae3568c8c53389bbf0bd) · Isolate passwd and NSS on symlinked NixOS /etc in eon-test · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-18\
   |   |-- [#7](https://github.com/Yazelix/eon/pull/7) · docs: slice 2b local session recovery contract · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-11-14\
-  |   |-- [a5fd862](https://github.com/Yazelix/eon/commit/a5fd862b4f98e485d3292cf1cd29d8eb7dbc6185) · docs: clarify local recovery failure boundaries · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-14\
-  |   |-- [c228cd8](https://github.com/Yazelix/eon/commit/c228cd8cf3df4580857971d173c9ba3e1ef6d76b) · docs: draft slice 2b local session recovery contract · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-11-14\
-  |   |-- [#3](https://github.com/Yazelix/eon/pull/3) · docs: propose recoverable workspace contracts and acceptance matrix (slice 1) · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-11-03\
+  |   |-- [more PRs...](https://github.com/Yazelix/eon/pulls?q=is%3Apr+author%3Abioinformatist+is%3Amerged)\
   |   '-- [repository history...](https://github.com/Yazelix/eon/commits)\
   |-- [kinestra](https://github.com/Yazelix/kinestra)\
   |   |-- [6d1c397](https://github.com/Yazelix/kinestra/commit/6d1c3979d9582b730a04049c775bc025bf7e5b18) · chore: close verified Codex recording bead · <img alt="Commit" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/commit.svg" width="16" height="16"> 2026-09-07\
@@ -37,7 +38,7 @@
   '-- [repository history...](https://github.com/yuankunzhang/charming/commits)
 - [stablyai/orca#7764](https://github.com/stablyai/orca/pull/7764) · Fix SSH fallback worktree paths for origin/main · <img alt="Merged" src="https://raw.githubusercontent.com/bioinformatist/recent-merged-pr/v1.2.0/assets/merged.svg" width="16" height="16"> 2026-07-24
 
-_Last updated: 2026-11-18 07:23 UTC_
+_Last updated: 2026-11-18 20:28 UTC_
 _Rendered by [recent-merged-pr](https://github.com/bioinformatist/recent-merged-pr)._
 <!-- RECENT_PRS_END -->
 
